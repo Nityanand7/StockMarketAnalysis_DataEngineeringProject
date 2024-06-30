@@ -11,11 +11,6 @@ This project demonstrates an end-to-end data engineering pipeline for real-time 
 4. **Use AWS Glue for data cataloging**
 5. **Query data using AWS Athena**
 
-## Prerequisites
-
-- An AWS account (free tier sufficient)
-- Basic knowledge of EC2, S3, and IAM roles
-
 ## Step-by-Step Guide
 
 ### 1. Set Up Kafka on EC2
