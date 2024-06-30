@@ -182,6 +182,3 @@ This project demonstrates a comprehensive data engineering workflow for real-tim
 
 Make sure to check for IAM roles and permissions when encountering errors. Restart Zookeeper and Kafka server if needed. Update public IP addresses when restarting the instance or assign an elastic IP to avoid IP changes.
 
----
-
-By completing this project, you showcase your proficiency in data engineering, specifically in setting up real-time data pipelines and processing streams using Kafka and AWS services.
